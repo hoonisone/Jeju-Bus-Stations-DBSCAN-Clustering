@@ -21,7 +21,7 @@
 - Scikit-Learn 0.23.0
 
 ## Dataset
-- ``jeju-bus-station.csv``
+- ``station-final.csv``
   - 제주 지역 버스 정류장 데이터 (csv 파일)
 
 ## Results
